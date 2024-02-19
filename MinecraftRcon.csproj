@@ -7,9 +7,8 @@
         <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <Authors>rallez</Authors>
-        <PackageProjectUrl> </PackageProjectUrl>
-        <PackageTags>minecraft</PackageTags>
-        <PackageTags>rcon</PackageTags>
+        <RepositoryUrl>https://github.com/rallez14/MinecraftRcon</RepositoryUrl>
+        <PackageTags>minecraft, rcon</PackageTags>
     </PropertyGroup>
 
     <ItemGroup>
