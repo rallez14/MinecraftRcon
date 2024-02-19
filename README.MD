@@ -8,7 +8,7 @@ A simple program for remote management of a Minecraft server using the RCON prot
 - Sending commands to the server using the RCON protocol.
 
 ## Requirements
-- .NET 5.0 or later
+- .NET 8.0 or later
 
 ## Configuration
 Default settings, such as host address, port, and RCON password, can be changed in the `Terminal.cs` file under the `Default Configuration` section.
