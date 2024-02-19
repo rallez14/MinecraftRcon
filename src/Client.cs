@@ -2,7 +2,7 @@
 
 namespace MinecraftRcon;
 
-internal class Client : IDisposable
+public class Client : IDisposable
 {
     private const int MaxMessageSize = 4110; // 4096 + 14 header bytes
     private readonly TcpClient _client;
